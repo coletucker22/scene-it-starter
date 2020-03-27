@@ -1,16 +1,18 @@
 body {
-	background-color: #B2E9FD;
+	background-color: rgb(162, 224, 226);
 }
 
-.header h2 {
-	color: #DC4247;
-}
-
-.header p {
-	color: #50524F;
+.display-2 {
+	color: rgb(68, 98, 145);
 }
 
 .results {
 	margin-top: 20px;
+}
+
+.card {
+	margin: 10px;
+	padding: 5px;
+	background-color: rgb(255, 255, 255);
 }
 
